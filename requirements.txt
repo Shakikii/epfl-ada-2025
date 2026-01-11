@@ -24,4 +24,4 @@ seaborn==0.13.2
 patsy==1.0.2         # For Statsmodels formulas
 joblib==1.5.3        # For Scikit-learn
 requests==2.32.5     # Safe to keep for data fetchin
-xlrd==2.0.1           # For reading Excel files (if needed)
+xlrd==2.0.1          # For reading Excel files (if needed)
